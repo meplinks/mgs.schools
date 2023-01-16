@@ -1,0 +1,170 @@
+* body {
+    background-color: aqua;
+}
+
+div img {
+    
+    float: right;
+}
+
+header h1 {
+    
+    font-family: fantasy;
+    background-color: mediumblue;
+    text-align: center;
+    border-radius: 30px;
+    font-display: 300px;
+    
+    
+
+}
+header#hi1 p {
+    font-size: 15px;
+    font-family: cursive;
+    background-color: rgba(120, 180, 123, 0.616);
+    text-align: center;
+    border-radius: 25px;
+    font-style: italic;
+    
+}
+
+header#hi1 p {
+    color: black;
+}
+
+header#hi1 h1 {
+    color: aquamarine;
+}
+body div#div01 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+div#div01 div#primary {
+    border: 2px solid blue;
+    text-align: center;
+    width: 300px;
+}
+div#primary img {
+    width: 100%;
+}
+div#primary ul {
+    list-style: none;
+}
+div#div01 div#div02 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+div#div02 div#junior {
+    border: 2px solid blue;
+    text-align: center;
+    width: 300px;
+
+}
+div#junior img {
+    width: 100%;
+}
+div#div01 div#div03 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+div#div03 div#senior {
+    border: 2px solid blue;
+    text-align: center;
+    width: 300px;
+
+}
+div#senior img {
+    width: 100%;
+}
+body div#div04 {
+    background-color: blue;
+    height: 10vh;
+    line-height: 10vh;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+div#div04 footer {
+    color: white;
+     display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    
+}
+
+a i.fa.fa-facebook-official {
+    color: white;
+}
+
+body div#div00 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+div#div00 div#nursery {
+    border: 2px solid blue;
+    text-align: center;
+    width: 300px;
+}
+div#nursery img {
+    width: 100%;
+}
+a i.fa.fa-youtubu-play {
+    color: white
+}
+
+footer p {
+    background-color: rgb(59, 54, 129);
+}
+footer div {
+    background-color: rgba(100, 107, 200, 0.952);
+}
+
+ /* tablet view */
+@media (max-width:768px) {
+    div img {
+        width: 260px;
+    }
+}
+
+ /* mobile view */
+@media (max-width:540px) {
+
+}
+ 
+@media (max-width:300px) {
+    
+}
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+    
+    
+    
+
+
+
+
+
+
+
